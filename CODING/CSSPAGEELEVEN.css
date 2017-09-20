@@ -1,0 +1,38 @@
+body{
+    
+font-size:60px;
+font-family:bodoni;
+margin-left:20px;
+letter-spacing:4px;
+text-transform: uppercase;
+
+    
+width: 1380px;
+
+    
+    
+   
+}
+
+#break {
+    font-family: Arial black;
+    
+}
+
+#stretch {
+    font-family: Arial Black;
+    
+}
+
+#bend {
+    font-family: comic sans; 
+}
+
+#crush {
+    font-family: american typewriter;
+    
+}
+
+#fold {
+    font-family: Avenir;
+}
